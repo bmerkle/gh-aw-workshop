@@ -28,7 +28,7 @@ Open the completed **Daily Report Status** run from the **Actions** tab and clic
 🔧 Tool call:   github.list_issues
 📥 Result:      3 issues found
 🤔 Thinking...  Issue #4 has the most 👍 reactions
-🔧 Tool call:   github.add_comment
+🔧 Tool call:   safeoutputs add_comment
 ✅ Done
 ```
 
