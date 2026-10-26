@@ -3,7 +3,7 @@
 <!-- learning:false -->
 # Install the gh-aw CLI Extension
 
-`gh-aw` is the CLI extension that compiles your [agentic workflow](https://github.github.com/gh-aw/introduction/overview/) Markdown files and triggers runs from your terminal.
+`gh-aw` is the CLI extension that [compiles](https://github.github.com/gh-aw/reference/compilation-process/) your [agentic workflow](https://github.github.com/gh-aw/introduction/overview/) Markdown files and triggers runs from your terminal.
 
 > [!NOTE]
 > Using your own machine instead? Take the optional [Install `gh-aw` in a Local Terminal side quest](side-quest-06-04-install-local.md).
